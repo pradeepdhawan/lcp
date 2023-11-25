@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shilp\\Downloads\\SampleApp\\SampleApp\\src\\FundAdministration.Dtos\\FundAdministration.Dtos.csproj",
+      "projectUniqueName": "C:\\Users\\shilp\\lcp\\SampleApp\\src\\FundAdministration.Dtos\\FundAdministration.Dtos.csproj",
       "projectName": "FundAdministration.Dtos",
-      "projectPath": "C:\\Users\\shilp\\Downloads\\SampleApp\\SampleApp\\src\\FundAdministration.Dtos\\FundAdministration.Dtos.csproj",
+      "projectPath": "C:\\Users\\shilp\\lcp\\SampleApp\\src\\FundAdministration.Dtos\\FundAdministration.Dtos.csproj",
       "packagesPath": "C:\\Users\\shilp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shilp\\Downloads\\SampleApp\\SampleApp\\src\\FundAdministration.Dtos\\obj\\",
+      "outputPath": "C:\\Users\\shilp\\lcp\\SampleApp\\src\\FundAdministration.Dtos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

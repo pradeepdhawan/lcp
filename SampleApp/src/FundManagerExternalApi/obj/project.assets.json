@@ -443,11 +443,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shilp\\Downloads\\SampleApp\\SampleApp\\src\\FundManagerExternalApi\\FundManagerVerificationApi.csproj",
+      "projectUniqueName": "C:\\Users\\shilp\\lcp\\SampleApp\\src\\FundManagerExternalApi\\FundManagerVerificationApi.csproj",
       "projectName": "FundManagerVerificationApi",
-      "projectPath": "C:\\Users\\shilp\\Downloads\\SampleApp\\SampleApp\\src\\FundManagerExternalApi\\FundManagerVerificationApi.csproj",
+      "projectPath": "C:\\Users\\shilp\\lcp\\SampleApp\\src\\FundManagerExternalApi\\FundManagerVerificationApi.csproj",
       "packagesPath": "C:\\Users\\shilp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shilp\\Downloads\\SampleApp\\SampleApp\\src\\FundManagerExternalApi\\obj\\",
+      "outputPath": "C:\\Users\\shilp\\lcp\\SampleApp\\src\\FundManagerExternalApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

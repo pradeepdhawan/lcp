@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shilp\\Downloads\\SampleApp\\SampleApp\\src\\FundAdministration\\FundAdministration.Models.csproj": {}
+    "C:\\Users\\shilp\\lcp\\SampleApp\\src\\FundAdministration\\FundAdministration.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shilp\\Downloads\\SampleApp\\SampleApp\\src\\FundAdministration\\FundAdministration.Models.csproj": {
+    "C:\\Users\\shilp\\lcp\\SampleApp\\src\\FundAdministration\\FundAdministration.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shilp\\Downloads\\SampleApp\\SampleApp\\src\\FundAdministration\\FundAdministration.Models.csproj",
+        "projectUniqueName": "C:\\Users\\shilp\\lcp\\SampleApp\\src\\FundAdministration\\FundAdministration.Models.csproj",
         "projectName": "FundAdministration.Models",
-        "projectPath": "C:\\Users\\shilp\\Downloads\\SampleApp\\SampleApp\\src\\FundAdministration\\FundAdministration.Models.csproj",
+        "projectPath": "C:\\Users\\shilp\\lcp\\SampleApp\\src\\FundAdministration\\FundAdministration.Models.csproj",
         "packagesPath": "C:\\Users\\shilp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shilp\\Downloads\\SampleApp\\SampleApp\\src\\FundAdministration\\obj\\",
+        "outputPath": "C:\\Users\\shilp\\lcp\\SampleApp\\src\\FundAdministration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
