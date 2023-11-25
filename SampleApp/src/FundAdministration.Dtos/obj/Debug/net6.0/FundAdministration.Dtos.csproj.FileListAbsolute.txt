@@ -1,0 +1,11 @@
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Dtos\bin\Debug\net6.0\FundAdministration.Dtos.deps.json
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Dtos\bin\Debug\net6.0\FundAdministration.Dtos.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Dtos\bin\Debug\net6.0\FundAdministration.Dtos.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Dtos\obj\Debug\net6.0\FundAdministration.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Dtos\obj\Debug\net6.0\FundAdministration.Dtos.AssemblyInfoInputs.cache
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Dtos\obj\Debug\net6.0\FundAdministration.Dtos.AssemblyInfo.cs
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Dtos\obj\Debug\net6.0\FundAdministration.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Dtos\obj\Debug\net6.0\FundAdministration.Dtos.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Dtos\obj\Debug\net6.0\refint\FundAdministration.Dtos.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Dtos\obj\Debug\net6.0\FundAdministration.Dtos.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Dtos\obj\Debug\net6.0\ref\FundAdministration.Dtos.dll

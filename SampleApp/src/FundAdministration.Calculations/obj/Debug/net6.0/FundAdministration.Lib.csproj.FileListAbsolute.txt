@@ -1,0 +1,15 @@
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\bin\Debug\net6.0\FundAdministration.Lib.deps.json
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\bin\Debug\net6.0\FundAdministration.Lib.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\bin\Debug\net6.0\FundAdministration.Lib.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\bin\Debug\net6.0\FundAdministration.Models.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\bin\Debug\net6.0\FundAdministration.Models.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\obj\Debug\net6.0\FundAdministration.Lib.csproj.AssemblyReference.cache
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\obj\Debug\net6.0\FundAdministration.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\obj\Debug\net6.0\FundAdministration.Lib.AssemblyInfoInputs.cache
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\obj\Debug\net6.0\FundAdministration.Lib.AssemblyInfo.cs
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\obj\Debug\net6.0\FundAdministration.Lib.csproj.CoreCompileInputs.cache
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\obj\Debug\net6.0\FundAdministration.Lib.csproj.CopyComplete
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\obj\Debug\net6.0\FundAdministration.Lib.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\obj\Debug\net6.0\refint\FundAdministration.Lib.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\obj\Debug\net6.0\FundAdministration.Lib.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Calculations\obj\Debug\net6.0\ref\FundAdministration.Lib.dll

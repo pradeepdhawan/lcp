@@ -1,0 +1,17 @@
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\bin\Debug\net6.0\FundAdministration.Service.deps.json
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\bin\Debug\net6.0\FundAdministration.Service.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\bin\Debug\net6.0\FundAdministration.Service.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\bin\Debug\net6.0\FundAdministration.Db.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\bin\Debug\net6.0\FundAdministration.Models.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\bin\Debug\net6.0\FundAdministration.Db.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\bin\Debug\net6.0\FundAdministration.Models.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\obj\Debug\net6.0\FundAdministration.Service.csproj.AssemblyReference.cache
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\obj\Debug\net6.0\FundAdministration.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\obj\Debug\net6.0\FundAdministration.Service.AssemblyInfoInputs.cache
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\obj\Debug\net6.0\FundAdministration.Service.AssemblyInfo.cs
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\obj\Debug\net6.0\FundAdministration.Service.csproj.CoreCompileInputs.cache
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\obj\Debug\net6.0\FundAdministration.Service.csproj.CopyComplete
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\obj\Debug\net6.0\FundAdministration.Service.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\obj\Debug\net6.0\refint\FundAdministration.Service.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\obj\Debug\net6.0\FundAdministration.Service.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FundAdministration.Lib\obj\Debug\net6.0\ref\FundAdministration.Service.dll

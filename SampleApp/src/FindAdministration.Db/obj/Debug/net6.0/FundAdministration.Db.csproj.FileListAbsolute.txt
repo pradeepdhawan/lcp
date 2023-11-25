@@ -1,0 +1,15 @@
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\bin\Debug\net6.0\FundAdministration.Db.deps.json
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\bin\Debug\net6.0\FundAdministration.Db.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\bin\Debug\net6.0\FundAdministration.Db.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\bin\Debug\net6.0\FundAdministration.Models.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\bin\Debug\net6.0\FundAdministration.Models.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\obj\Debug\net6.0\FundAdministration.Db.csproj.AssemblyReference.cache
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\obj\Debug\net6.0\FundAdministration.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\obj\Debug\net6.0\FundAdministration.Db.AssemblyInfoInputs.cache
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\obj\Debug\net6.0\FundAdministration.Db.AssemblyInfo.cs
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\obj\Debug\net6.0\FundAdministration.Db.csproj.CoreCompileInputs.cache
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\obj\Debug\net6.0\FundAdministration.Db.csproj.CopyComplete
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\obj\Debug\net6.0\FundAdministration.Db.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\obj\Debug\net6.0\refint\FundAdministration.Db.dll
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\obj\Debug\net6.0\FundAdministration.Db.pdb
+C:\Users\shilp\Downloads\SampleApp\SampleApp\src\FindAdministration.Db\obj\Debug\net6.0\ref\FundAdministration.Db.dll
