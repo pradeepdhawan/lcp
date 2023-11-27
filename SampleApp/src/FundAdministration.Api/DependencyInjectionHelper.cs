@@ -11,7 +11,7 @@ namespace FundAdministration.Api
             services.AddDbContext<FundAdministrationContext>(options =>
             {
                 //options.UseSqlServer("Server=localhost;Database=FundAdministration;Trusted_Connection=True;");
-                options.UseSqlServer("Data Source=.;Initial Catalog=FundAdministration;Integrated Security=True;");
+                options.UseSqlServer("Data Source=localhost\\SQLEXPRESS;Initial Catalog=FundAdministrationDB;Integrated Security=True;Pooling=False;");
             }, ServiceLifetime.Singleton);
 
             // Add the service interfaces
